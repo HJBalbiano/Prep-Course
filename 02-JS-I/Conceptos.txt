@@ -1,0 +1,8 @@
+Variables: Manera de almacenar un dato en JS
+Strings: Tipo de dato, son cadena de caracteres, ej: "hola"
+Funciones (argumentos, return): Argumentos: son los valores que se le van a indicar a la funcion para despues poder ser utilizados en la misma
+				return: es lo que la funcion va a devolver
+Declaraciones if: es un tipo de condicional, que nos permite evaluar y buscador dos caminos verdado o falso.
+Valores booleanos (true, false): es un tipo de dato, nos permite asumir dos valores que pueden ser evaluados en condiciones.
+				True: es el valor verdadero, cuando la condicion se cumple asume este valor
+				False: es el valor falso, cuando no se cumple la condicion asume este valor.
