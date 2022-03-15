@@ -1,0 +1,5 @@
+Ciclo For: es una estructura de repeticion del codigo N veces. Se va a repetir tantas veces como la condicion se cumpla. Se escribe con 3 parametros: una variable, una condicion y un cambio en la variable (por lo general)
+
+&&: es el operador and, para unidor dos condiciones, da un valor de verdad
+||: es el operador or, para unidor dos condiciones, da un valor de verdad
+!: es el operador not, cambia el valor de verdad
