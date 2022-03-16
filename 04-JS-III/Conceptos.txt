@@ -1,0 +1,1 @@
+Array: es una coleccion de datos, puede contener cualquier tipo pero siempre sera el mismo tipo
