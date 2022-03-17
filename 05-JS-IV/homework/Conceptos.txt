@@ -1,0 +1,6 @@
+Objetos: es la creacion de valores que tienen distintas propiedades, no son lo mismo que arrays
+Propiedades: son los valores que tiene cada objeto
+Métodos: son funciones que estan contenidas en objetos
+Bucle for…in: es la forma de evaluar todas las propiedades de un objeto
+Notación de puntos vs notación de corchetes: puntuacion es facil de escribir, corchetes me permite 
+asignar una variable dentro de los mismos para buscar en el objeto
